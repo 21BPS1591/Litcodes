@@ -1,2 +1,2 @@
-# Litcodes
-All litcode answers
+# litcoder
+Litcoder - For CS solutions
